@@ -14,3 +14,7 @@ npm run dev
 # Build for production in the dist/ directory
 npm run build
 ```
+## Here's a preview:
+
+https://github.com/Teee728/3D-Text/assets/122243742/192dffd4-4625-44bc-a915-205a289a9cd5
+
